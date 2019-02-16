@@ -36,16 +36,16 @@
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
 ### Почти все компоненты можно взять в магазине WAVGAT по первым ссылкам
-* Digispark http://ali.pub/2jm331
-* Мосфет модуль http://ali.pub/2jm33m
-* Батарейный отсек 4xAA http://ali.pub/2jm365
-* Отсек 3-4 АА (другой магаз) http://ali.pub/2jm3bs
-* Отсек как на видео (другой магаз) http://ali.pub/2jm3cr
-* Помпа http://ali.pub/2jm3qy
+* Digispark http://ali.ski/1SGRa
+* Мосфет модуль http://ali.ski/CMlqf
+* Батарейный отсек 4xAA http://ali.ski/7ks453
+* Отсек 3-4 АА (другой магаз) http://ali.ski/C2Ctqm
+* Отсек как на видео (другой магаз) http://ali.ski/O4rsvg
+* Помпа http://ali.ski/Yqn5i2
 * Транзисторы, конденсаторы и резисторы - в ЛЮБОМ магазине радиодеталей
-* Шланг http://ali.pub/2jm3e4
-* Тройнички http://ali.pub/2jm3ep
-* Разветвитель http://ali.pub/2jm3f3
+* Шланг http://ali.ski/Z2Fhr
+* Тройнички http://ali.ski/i1lGN
+* Разветвитель http://ali.ski/-3Yos
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
