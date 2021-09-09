@@ -33,20 +33,6 @@
 ![SCHEME](https://github.com/AlexGyver/Auto_Pump_Sleep/blob/master/schemes/modif.jpg)
 
 <a id="chapter-3"></a>
-## Материалы и компоненты
-### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-### Почти все компоненты можно взять в магазине WAVGAT по первым ссылкам
-* Digispark http://ali.ski/1SGRa
-* Мосфет модуль https://ali.ski/RK9wit
-* Батарейный отсек 4xAA http://ali.ski/7ks453
-* Отсек 3-4 АА (другой магаз) http://ali.ski/C2Ctqm
-* Отсек как на видео (другой магаз) http://ali.ski/O4rsvg
-* Помпа https://ali.ski/F3SfA
-* Транзисторы, конденсаторы и резисторы – в ЛЮБОМ магазине радиодеталей
-* Шланг http://ali.ski/Z2Fhr
-* Тройнички http://ali.ski/i1lGN
-* Разветвитель http://ali.ski/-3Yos
-
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
 * [Недорогие инструменты](http://alexgyver.ru/my_instruments/)
